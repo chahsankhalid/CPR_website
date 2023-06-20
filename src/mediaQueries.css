@@ -1,0 +1,366 @@
+@media screen and (min-width: 1900px) {
+  .marquee span {
+    font-size: 60px;
+  }
+
+  .commnity {
+    font-size: 56px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1400px) {
+  .worktogehter h1 {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-brand {
+    width: 25%;
+    z-index: 6;
+  }
+
+  .talkbtn,
+  .talkbtnemail {
+    display: none;
+  }
+  .worktogehter h1 {
+    font-size: 40px;
+  }
+  .worktogehter h1:nth-child(2) {
+    font-size: 50px;
+  }
+  .emailform input,
+  .emailform textarea {
+    font-size: 20px;
+  }
+  .emailform {
+    padding: 30px;
+  }
+  .submitbtnemail {
+    font-size: 1.2em;
+    padding: 0px 20px 0px 20px;
+  }
+  .footernumber {
+    display: none;
+  }
+  .footernumbermob {
+    display: block;
+    font-size: 20px;
+    color: white;
+    font-family: "tomatolight";
+  }
+  #emailsection {
+    height: auto;
+  }
+  .navbar-toggler-icon1,
+  .navbar-toggler-icon2,
+  .navbar-toggler-icon1email,
+  .navbar-toggler-icon2email {
+    width: 40px;
+  }
+
+  .unorthodox h1 {
+    text-align: center;
+  }
+  .landedcontent2 {
+    font-size: 35px;
+  }
+  .landedcontent1 {
+    font-size: 25px;
+    padding-top: 40px;
+  }
+  .servicesparentdiv {
+    height: auto;
+  }
+  .servicelist {
+    font-size: 24px;
+    width: 100%;
+  }
+  .menu {
+    margin-top: 50px;
+  }
+  .unorthodox {
+    margin-top: 15%;
+    margin-bottom: 15%;
+  }
+
+  .mainblob {
+    height: 100vh !important;
+  }
+
+  .line {
+    margin-left: 10px;
+  }
+
+  .nav-tabs .nav-link {
+    padding-left: 0 !important;
+    padding-right: 0px !important;
+    font-size: 15px !important;
+    margin: 5px 10px;
+  }
+
+  #services {
+    height: 70vh;
+  }
+
+  .back-video {
+    width: 100%;
+    height: auto;
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
+
+  .card-text {
+    font-size: 1.1rem;
+  }
+
+  .about-para {
+    padding: 40px 20px 60px 20px;
+  }
+
+  .hover_reveal_inner {
+    width: 100%;
+  }
+  .menu li {
+    padding-bottom: 10px;
+    width: 100%;
+  }
+  .tooltop::after{
+    display: none;
+  }
+  .tooltop{
+    width: 90%;
+  }
+  #aboutus {
+    margin-top: 20%;
+  }
+  .pad30 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .aboutimg2 img {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .aboutus_2ndheading h1 {
+    font-size: 34px;
+  }
+  .aboutinspiration_heading {
+    display: none;
+  }
+  .aboutinspiration_headingmob {
+    display: block;
+    font-size: 35px;
+    font-family: "tomatoextralight";
+    color: white;
+    padding-top: 90px;
+  }
+  .inpiration-heading{
+    padding: 50px 0px;
+  }
+  .atcpr-content {
+    padding-left: 20px;
+}
+.animated-emojiodd img{
+    width: 30%;
+    position: absolute;
+    right: 0;
+}
+.animated-emojieven img{
+  width: 30%;
+  position: absolute;
+  left: 0;
+}
+.privacyrows:nth-child(even) .privacycontent{
+   padding-top: 50%;
+}
+  .aboutcontent1 {
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 50px;
+}
+  .aboutus_2ndheadingsecond p {
+    padding: 0 10%;
+  }
+  .hoverimgreveals {
+    width: auto;
+    height: 200px;
+  }
+
+  .marquee-w,
+  .marquee-w2second,
+  .marquee-w2third {
+    height: 50px;
+  }
+
+  .marquee span,
+  .marqueesecond span,
+  .marqueethird2 span,
+  .marqueethird span {
+    font-size: 30px;
+    line-height: 56px;
+  }
+
+  #aboutmore {
+    padding: 0 2% 0 2%;
+  }
+
+  .aboutmoretext {
+    font-size: 34px;
+  }
+
+  #aboutmore img {
+    width: 100%;
+    margin-top: 10%;
+    padding: 20px;
+  }
+
+  .col-md-2 {
+    width: 100%;
+  }
+
+  #footer .nav-link {
+    margin: auto !important;
+    border: none;
+  }
+
+  .mobnavsocialicon {
+    display: none;
+  }
+  .nav-link {
+    font-size: 55px;
+    border-bottom: 1px solid grey;
+    padding-left: 15px;
+  }
+  .navsocialmob {
+    margin-top: 20%;
+    margin-left: 30px;
+    display: block;
+  }
+  .navsocialmob a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: "tomatolight";
+  }
+  .offcanvas-body {
+    padding: 0;
+  }
+  .navbar-nav ul {
+    padding-left: 0;
+  }
+  .navbar-nav .container {
+    padding: 0;
+  }
+  .float-end {
+    float: none !important;
+  }
+
+  .services-heading h1 {
+    font-size: 40px;
+  }
+
+  .serviceline {
+    width: 35px;
+    border-bottom: 1px solid white;
+    margin-bottom: 7px;
+    border-top: 1px solid white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: none;
+  }
+
+  .numbers {
+    font-size: 10px;
+    top: -9px;
+  }
+
+  .commnity {
+    font-size: 27px;
+  }
+
+  .bottomfixed {
+    position: relative;
+    bottom: 0;
+  }
+
+  .footer-logomob {
+    display: block;
+    width: 18%;
+  }
+
+  .footer-logo {
+    display: none;
+  }
+
+  .copywright {
+    margin-left: auto;
+  }
+
+  .vertical-center {
+    padding-right: 0;
+  }
+
+  #stampimage {
+    width: 30%;
+  }
+
+  .memberDetail p {
+    font-size: 15px;
+  }
+
+  .stamp {
+    float: none;
+    margin-right: 10px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+  }
+  .boxContainer {
+    margin-left: 0;
+  }
+  .boxes h1 {
+    font-size: 50px;
+  }
+  .boxContainerchild {
+    right: 0;
+  }
+  .testimonials .owl-item.active{
+    width: 366px !important;
+  }
+  .testimonials h1{
+    font-size: 30px;
+    padding-bottom: 50px;
+  }
+  .blog1content {
+    position: initial;
+    color: black;
+    padding: 20px 0px 20px 0px;
+  }
+  .blog2{
+    margin-right: 0;
+  }
+  .blog3{
+    margin-left: 0;
+  }
+  .blogs-heading {
+    padding: 50px 10px 0px 15px;
+}
+.blogs-heading2 {
+  padding-left: 15px;
+}
+.blog1para p {
+  padding-right: 0;
+}
+.blogs-headingdesktop{
+  display: none;
+}
+.blogheading-mobile{
+  display: block;
+}
+}
